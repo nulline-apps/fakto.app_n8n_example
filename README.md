@@ -134,7 +134,7 @@ Możesz również użyć tego workflow z węzłem AI Agent (LangChain) do tworze
 ## 📚 Dokumentacja
 
 - 🌐 [fakto.app](https://fakto.app) - Portal z kluczami API
-- 📧 Wsparcie: contact@elvai.app
+- 📧 Wsparcie: contact@nulline.pl
 
 ## 📝 Licencja
 
